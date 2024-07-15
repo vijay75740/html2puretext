@@ -11,9 +11,14 @@
     "url": "git+https://github.com/vijay75740/html2puretext.git"
   },
   "keywords": [
+    "convert",
     "html",
+    "to",
+    "plaintext",
     "plain",
     "text",
+    "innertext",
+    "converter",
     "html2text"
   ],
   "author": "Vijay Lunagariya",
