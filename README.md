@@ -43,6 +43,7 @@ h2p('<p>Hello,\n   &amp; <em>my name is <a href="https://github.com/vijay75740/h
 ## Disclaimer
 
 This package uses html code convert to normal text.
+Explore 1500+ Veg Indian recipes at [Hubrecipes](https://hubrecipes.com/), find cooking inspiration, and create kitchen wins with Simply Recipes.
 
 ## Issues
 
